@@ -1,5 +1,6 @@
 from tkinter import * # Import tkinter
 
+
 class ScrollText:
     def __init__(self):
         window = Tk() # Create a window
